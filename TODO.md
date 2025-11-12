@@ -1,4 +1,3 @@
-Aqui estão os próximos passos práticos e estratégicos para o projeto [govinda777/twa-template](https://github.com/govinda777/twa-template), pensando em avanços técnicos, documentação e engajamento comunitário.
 
 ## Revisão do Projeto Atual
 
